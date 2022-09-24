@@ -1,0 +1,36 @@
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    overflow: hidden;
+}
+header {
+    height: 10rem;
+    background-image: linear-gradient(#90d0d9, #479099);
+  }
+  #brief
+  {
+ color: white;
+
+ }
+ #head
+{
+font-size: larger;
+font-weight: bold;
+color:#58898F;
+margin: 0 0 1rem 1rem;
+}
+.space
+{
+ margin-top: 3.8rem;
+  /*margin-top: 4.9rem;*/
+}
+#exp a:hover{
+  color: rgb(199, 195, 195);
+  }
+  #exp a{
+    color: #479099;
+  
+  }
+ 
